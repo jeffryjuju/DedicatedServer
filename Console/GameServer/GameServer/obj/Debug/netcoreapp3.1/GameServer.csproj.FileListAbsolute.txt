@@ -1,0 +1,13 @@
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
+E:\Projects\Unity Projects\MultiplayerGame\Console\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
